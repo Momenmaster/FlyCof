@@ -19,6 +19,7 @@ Git is known for its speed and performance, which is a main factor in bigger sof
 The second thing is there is a more flexible approach to branching and merging compared to other version control systems.
 
 5) Name known issues related to game engines (Unreal, Unity) and version control systems:
+
 Third-party plugins and dependencies: 
 Game engines often rely on third-party plugins and dependencies, which can cause issues with version control if they are not managed properly. 
 
