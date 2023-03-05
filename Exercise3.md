@@ -9,6 +9,7 @@ Allerdings müssen die notwendigen Bibliotheken zur Laufzeit verfügbar sein, wa
 
 
 Describe a logging system with your own words:
+
 Ein Logging-System ist ein Programmteil, der Informationen über das Verhalten und den Status eines Programms aufzeichnet und speichert. 
 Es kann dabei helfen, Fehler und Probleme im Programm zu identifizieren und zu beheben, da es Informationen darüber liefert, was während der Ausführung passiert ist.
 Es gibt verschiedene Arten von Informationen, die in einem Log-System gespeichert werden können, wie beispielsweise Fehlermeldungen, Warnungen, Debugging-Informationen oder Benutzeraktionen. 
@@ -19,6 +20,7 @@ Einige Beispiele für Logging-Systeme in der Programmierung sind Log4j, Logback 
 
 
 What is a Design Pattern?
+
 Ein Design Pattern ist eine bewährte Lösung für ein wiederkehrendes Problem in der Softwareentwicklung. 
 Es ist wie eine Vorlage oder ein Bauplan, der bei der Erstellung von Software verwendet werden kann. 
 Es beschreibt die Struktur, die Beziehungen und die Interaktionen zwischen den verschiedenen Komponenten eines Systems. 
@@ -26,6 +28,7 @@ Durch die Verwendung von Design Patterns können Entwickler Zeit sparen, indem s
 
 
 Name and describe 2 Design Patterns (except façade or adapter):
+
 Singleton Pattern: Dieses Muster wird verwendet, um sicherzustellen, dass eine Klasse nur eine einzige Instanz hat, die global verfügbar ist. Es wird oft für Objekte verwendet, die nur einmal erstellt werden sollten, wie z.B. für eine Konfigurationsdatei.
 Ein Beispiel dafür wäre eine Klasse, die Zugriff auf eine Datenbank hat. Hier möchte man sicherstellen, dass immer nur eine Verbindung zur Datenbank besteht und nicht versehentlich mehrere Instanzen der Verbindungsklasse erzeugt werden.
 
